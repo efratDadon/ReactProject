@@ -1,0 +1,26 @@
+[
+    {
+        "name": "nrtn",
+        "phone": "645",
+        "typeServices": "consultation",
+        "start_time": "2024-02-29T20:33:00.000Z",
+        "mail": "efrat7twhbw351@gmail.com",
+        "Note": "ntr",
+        "id": "a2598eef-8bcd-4394-a09a-b07ef2720134",
+        "startTime": "2024-02-20T20:33:18.699Z",
+        "duration": "2",
+        "businessId": "e1f80d42-0fb4-46eb-8b15-636bcf8dce79"
+    },
+    {
+        "name": "יעל",
+        "phone": "645",
+        "typeServices": "consultation",
+        "start_time": "2024-02-29T20:33:00.000Z",
+        "mail": "efrat7twhbw351@gmail.com",
+        "Note": "ntr",
+        "id": "ca757f64-4ee8-4d7a-82da-bc73f5fcf6f3",
+        "startTime": "2024-02-20T20:32:44.254Z",
+        "duration": "2",
+        "businessId": "e1f80d42-0fb4-46eb-8b15-636bcf8dce79"
+    }
+]

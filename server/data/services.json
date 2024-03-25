@@ -1,0 +1,24 @@
+[
+    {
+        "type": "consultation",
+        "description": "A personalized consultation to discuss specific needs and concerns",
+        "price":"50",
+        "Duration":"10 minutes",
+        "businessId": "e1f80d42-0fb4-46eb-8b15-636bcf8dce79"
+    
+    } ,
+    {
+        "type": "Workshop",
+        "description": "An in-depth and interactive workshop designed to impart comprehensive knowledge and practical skills",
+        "price":"600",
+        "Duration":"35 hours",
+        "businessId": "e1f80d42-0fb4-46eb-8b15-636bcf8dce79"
+    },
+    {
+        "type": "care",
+        "description": "A special treatment session that focuses on treating specific problems or providing therapeutic benefits",
+        "price":"250",
+        "Duration":"30 minutes",
+        "businessId": "e1f80d42-0fb4-46eb-8b15-636bcf8dce79"
+    }  
+    ]

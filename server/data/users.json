@@ -1,0 +1,43 @@
+[
+    {
+        "username": "רחלי",
+        "password": "53453587",
+        "phone": "0523456784",
+        "email": "efrat7351@gmail.com",
+        "id": "e1aaeebc-75d7-4161-aab5-b2faf2173e59"
+    },
+    {
+        "username": "manager",
+        "password": "12345678",
+        "phone": "0357912571",
+        "email": "Baeuty1234@gmail.com",
+        "id": "e1f80d42-0fb4-46eb-8b15-636bcf8dce79"
+    },
+    {
+        "username": "חני",
+        "password": "68990",
+        "phone": "0523456784",
+        "email": "יהיה@gmail.com",
+        "id": "d51b4907-910a-4e59-a325-9c97cddd65f2"
+    },
+    {
+        "username": "יעל",
+        "password": "788994",
+        "phone": "0789938221",
+        "email": "ghgk@gmail.com",
+        "id": "e78b6739-0424-4592-ae6a-3e73df1884d8"
+    },
+    {
+        "username": "הילה",
+        "password": "12",
+        "phone": "43634646742",
+        "email": "das1@gmail.com",
+        "id": "0a76b629-2975-429a-b315-38c1691efa36"
+    },
+    {
+        "username": "הדסה",
+        "password": "43",
+        "phone": "5346457585",
+        "id": "41e23abb-1454-4883-a0a0-e5a4408e7aa9"
+    }
+]
